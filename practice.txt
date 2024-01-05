@@ -5,4 +5,3 @@ Updating a file from local....
 Writing from GitHub.
 
 Updating Practice for understanding rebase.
-Updating practice for understanding revert.
